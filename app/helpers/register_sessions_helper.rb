@@ -1,0 +1,2 @@
+module RegisterSessionsHelper
+end
